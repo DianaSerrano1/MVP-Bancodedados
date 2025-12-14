@@ -580,12 +580,11 @@ Abordagem analítica:
 Principais achados:
 A categoria Malas apresenta, de forma consistente, a maior contribuição para o faturamento total da empresa, confirmando sua relevância estratégica no portfólio. Entretanto, categorias como Cotidiano, Mochilas e Escolares demonstram comportamento de crescimento relevante em determinados períodos do ano, sugerindo potencial de expansão e diversificação do mix.
 
-![Faturamento por categoria](assets/Fat x Data - por categoria.png)
+![Faturamento por categoria](assets/fat_dt_cat.png)
 
 A análise de variação mensal indica que algumas dessas categorias apresentam picos de crescimento em períodos específicos, evidenciando forte influência de sazonalidade e oportunidades comerciais fora do core tradicional de malas.
 
-![Crescimento da categorias nao - malas mensalmente](assets/CrescMensal _Data _NMalas.png)
-
+![Crescimento da categorias nao - malas mensalmente](assets/cresmensal_dt_nmalas.png)
 
 ---
 
@@ -602,7 +601,7 @@ A análise regional foi conduzida agregando o faturamento por estado e categoria
 Principais achados:
 Os resultados indicam que alguns estados apresentam maior diversificação no consumo, com participação relevante de categorias como Mochilas, Cotidiano e Viagem. Esses estados sugerem uma percepção de marca mais ampla, indo além do posicionamento tradicional focado em malas de viagem.
 
-![Faturamento por estado e categoria](assets/Estado X Categoria - fat..png)
+![Faturamento por estado e categoria](assets/est_cat_fat.png)
 
 Por outro lado, há regiões onde o faturamento permanece fortemente concentrado em Malas, indicando menor penetração de categorias complementares.
 
@@ -623,17 +622,16 @@ Principais achados:
 Observa-se que as lojas com maior faturamento não são necessariamente aquelas com maior volume de peças vendidas. Isso evidencia a coexistência de perfis distintos: lojas orientadas a produtos de maior valor unitário e lojas com estratégia baseada em alto giro e volume.
 
 
-
-![Por loja](assets/Fat X Qtd - por loja.png)Fat X Qtd - por loja
+![Por loja](assets/fat_qtd_loja.png)
 
 A análise do valor médio por peça confirma a existência de lojas com alto volume e menor preço médio, indicando potencial papel estratégico na captação de clientes e aumento de recorrência. Além disso, algumas lojas apresentam elevada participação de categorias não-malas, reforçando oportunidades de diversificação do mix local.
 
-![Tabela com a contribuição % das categorias nao malas - por lojas](assets/Tabela fat - não mala.png)
+![Tabela com a contribuição % das categorias nao malas - por lojas](assets/fat_nmalas.png)
 
 ----
 
 
-![Tabela com preço medio por loja](assets/preco_medio - por loja.png)
+![Tabela com preço medio por loja](assets/preco_medio_loja.png)
 
 
 ---
