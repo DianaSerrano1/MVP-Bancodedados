@@ -584,7 +584,8 @@ A categoria Malas apresenta, de forma consistente, a maior contribuição para o
 
 A análise de variação mensal indica que algumas dessas categorias apresentam picos de crescimento em períodos específicos, evidenciando forte influência de sazonalidade e oportunidades comerciais fora do core tradicional de malas.
 
-![Crescimento da categorias nao - malas mensalmente](assets/Cresc Mensal x Data - cat tirando malas.png)
+![Crescimento da categorias nao - malas mensalmente](assets/CrescMensal _Data _NMalas.png)
+
 
 ---
 
