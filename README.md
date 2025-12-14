@@ -635,3 +635,32 @@ A análise do valor médio por peça confirma a existência de lojas com alto vo
 ![Tabela com preço medio por loja](assets/preco_medio - por loja.png)
 
 
+---
+
+## 8. Conclusão
+
+Este MVP teve como objetivo a construção de um pipeline de dados em nuvem capaz de transformar dados operacionais brutos em informações analíticas estruturadas, utilizando conceitos fundamentais de Engenharia de Dados aplicados a um contexto real de negócio.
+
+Ao longo do trabalho, foi desenvolvido um pipeline completo no Databricks, estruturado em camadas Bronze, Silver e Gold, permitindo a ingestão, limpeza, padronização, modelagem e análise dos dados de forma organizada, rastreável e escalável. A adoção do modelo dimensional em esquema estrela na camada Gold possibilitou análises eficientes e alinhadas às perguntas de negócio propostas inicialmente.
+
+As análises realizadas permitiram identificar padrões relevantes no desempenho por categoria, região e loja. Observou-se que, embora a categoria de malas concentre a maior parte do faturamento, outras categorias apresentam potencial significativo de crescimento, tanto em volume quanto em participação no mix de vendas, especialmente em determinados períodos e regiões. Além disso, foi possível identificar diferenças claras entre lojas com perfil de alto volume e lojas orientadas a produtos de maior valor unitário, evidenciando estratégias comerciais distintas dentro da operação.
+
+Durante o desenvolvimento do projeto, algumas perguntas inicialmente previstas precisaram ser reformuladas ou descartadas devido à ausência de dados essenciais, como número de atendimentos ou tickets por loja. Esse processo de refinamento reforçou a importância da análise de qualidade e disponibilidade dos dados como etapa fundamental em projetos de Engenharia de Dados, garantindo que as conclusões extraídas fossem tecnicamente sustentáveis.
+
+De forma geral, o MVP atingiu seu objetivo ao demonstrar, de ponta a ponta, a construção de um pipeline de dados em nuvem, integrando ingestão, transformação, modelagem e análise, além de evidenciar como decisões técnicas impactam diretamente a qualidade e a confiabilidade das análises de negócio.
+
+
+---
+
+
+## 9. Autoavaliação
+
+A execução deste MVP permitiu consolidar conceitos teóricos de Engenharia de Dados por meio de uma aplicação prática e próxima da realidade profissional. Os principais objetivos definidos no início do trabalho foram, em grande parte, atingidos, especialmente no que diz respeito à construção de um pipeline estruturado em camadas, à modelagem dimensional e à realização de análises orientadas a perguntas de negócio.
+
+Entre os principais desafios encontrados ao longo do projeto, destacam-se o tratamento de inconsistências nos dados brutos, como formatação de datas, valores numéricos representados como texto e campos com espaços excedentes. Esses problemas exigiram iterações adicionais na camada Silver e reforçaram a importância de processos robustos de limpeza e padronização antes da modelagem analítica.
+
+Outro ponto relevante foi a necessidade de reavaliar o escopo analítico inicialmente proposto. A ausência de algumas informações operacionais, como número de atendimentos por loja, levou à reformulação de parte das perguntas de negócio, priorizando métricas plenamente suportadas pelos dados disponíveis. Apesar disso, esse ajuste contribuiu positivamente para a maturidade do trabalho, garantindo maior coerência entre dados, análises e conclusões.
+
+Como trabalhos futuros, este MVP poderia ser enriquecido com a incorporação de dados adicionais, como informações de tickets, canais físicos detalhados ou dados diários de vendas, permitindo análises mais aprofundadas de eficiência comercial e comportamento do cliente. Além disso, a automação da ingestão dos dados e a implementação de testes formais de qualidade poderiam tornar o pipeline ainda mais robusto e próximo de um ambiente produtivo.
+
+De forma geral, o projeto cumpriu seu papel acadêmico e técnico, servindo como uma base sólida para evoluções futuras e como um item relevante de portfólio em Engenharia de Dados.
